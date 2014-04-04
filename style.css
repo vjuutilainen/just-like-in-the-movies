@@ -1,0 +1,36 @@
+body {
+	background: #000;
+	font-family: 'Georgia', serif;
+	color: #eee;
+	margin: 0;
+	padding: 0;
+
+}
+
+#quotecontainer {
+
+	background: rgba(255,255,255,0.4);
+	
+	margin-left: 25%;
+	margin-right: 25%;
+	
+}
+
+.quoteblock {
+	position: absolute;
+
+	font-size: 2em;
+	width: 50%;
+}
+
+.character {
+
+	color: #aaa;
+	
+	text-align: center;
+}
+
+.quote {
+	text-align: center;
+
+}
